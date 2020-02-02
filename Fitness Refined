@@ -1,1 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
 
+        <title> Fitness Refined, Hub for Latest Fitness Content </title>
+        <link href="https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./Stylesheet.css">
+        <link href="https://fonts.googleapis.com/css?family=Bangers|Sigmar+One&display=swap" rel="stylesheet"> 
+    
+    </head>
+    <!-- The body code begins. Sticky Header here with tabs-->
+	<body>
+        <header> <img src="fitness-refined-logo-white.png"></header>
+        <nav>
+            <ul>
+                <li><a href = "#" class="active">Home</a></li>
+                <li><a href = "#">About</a></li>
+                <li><a href = "#">Services</a></li>
+                <li><a href = "#">Portfolio</a></li>
+                <li><a href = "#">Ask Us</a></li>
+                <li><a href = "#">Contact Us</a></li>
+
+            </ul>
+        </nav>
+        <section class="sec1">
+            <h2><b>Fitness Refined Podcast</b></h2>
+        </section>
+        <section class="sec2">
+            <h2> Dont let your imagination Limit your results</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi harum fugit sequi explicabo repellendus debitis quae dolorum, earum, mollitia nobis tempora? Dolores odio dolor aliquam officiis illum exercitationem, maiores pariatur repudiandae voluptates! Aut ea perferendis pariatur ad, cum nemo obcaecati repellat modi culpa quidem harum sapiente quia, ipsam laboriosam ducimus incidunt quibusdam voluptates, distinctio omnis placeat deserunt eos? Debitis numquam recusandae assumenda inventore asperiores iure fuga porro, neque odio suscipit repellat ab! Voluptatum laborum quisquam ipsa sequi vero cupiditate aliquam repellat sed et distinctio? Accusantium laboriosam autem delectus a, earum culpa aliquid quam perferendis cupiditate maiores est rerum vel neque! Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores error hic facere eligendi at delectus aliquam itaque nihil adipisci sapiente maxime placeat soluta tempore consectetur, rem laudantium culpa rerum beatae nobis quos. Est possimus praesentium asperiores enim labore aliquam laborum alias quasi! Quam tenetur rem quis veritatis, ipsam facilis nobis aperiam libero ullam, fugit tempora temporibus quo magni eos sequi ratione architecto autem dolor beatae eum eveniet! Blanditiis iusto distinctio dolores nisi similique incidunt nobis! Ea cupiditate culpa sequi voluptatum non eius quod, esse excepturi nihil! Repudiandae vero labore aliquam culpa pariatur illum dolorum. Impedit commodi eos magnam facere cupiditate iste neque obcaecati dicta, ipsa architecto quas! Qui veniam quibusdam non, quisquam nesciunt reprehenderit sunt accusamus fuga omnis placeat, maiores provident porro voluptates est, accusantium quis minima. Fuga non eaque facere recusandae dolores quia fugit officiis mollitia excepturi iure! Debitis, est animi? Dicta maiores qui adipisci incidunt ab consequuntur perspiciatis hic officiis magni amet, ea expedita veritatis tempora eligendi ullam laudantium deleniti beatae sit? Placeat error ratione consequatur expedita. Quia praesentium accusantium repellendus. Quidem qui repellat corrupti omnis minus vitae. Enim et ad sint minus eveniet soluta voluptates, voluptatem voluptatibus quam quisquam debitis dolorem reiciendis, impedit ut maiores architecto non.<br><br></p>
+        </section>
+        <section class="sec3"></section>
+
+
+        https://www.youtube.com/watch?v=wWzaqAa9bf0
+
+
+	</body>
+</html> 
